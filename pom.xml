@@ -114,7 +114,4 @@
 		</plugins>
 
 	</build>
-<distributionManagement>
-
-</distributionManagement>
 </project>
